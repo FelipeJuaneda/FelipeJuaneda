@@ -24,5 +24,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/felipe-juaneda-8b7103190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe agustin juaneda" height="30" width="40" /></a>
   &nbsp;
-  <a href="felipejua9@gmail.com" target="blank"><img align="center" src="https://1000marcas.net/wp-content/uploads/2019/11/logo-Gmail-1.png" alt="felipe agustin juaneda" height="35" width="40" style="object-fit:cover" /></a>
+  <a href="felipejua9@gmail.com" target="blank"><img align="center" src="https://1000marcas.net/wp-content/uploads/2019/11/logo-Gmail-1.png" alt="felipe agustin juaneda" height="35" width="40" style="object-fit:'cover'" /></a>
 </p>
