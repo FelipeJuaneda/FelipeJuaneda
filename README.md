@@ -6,7 +6,7 @@
 
 <div align="center"><br><img src="https://komarev.com/ghpvc/?username=felipejuaneda&label=Profile%20views&color=0e75b6&style=flat" style="width:25%;height:auto;" alt="felipejuaneda" /> </div>
 
-- 🔭 Trabajando En <a href="https://www.coderhouse.com/" >**CoderHouse**</a>
+- 🔭 Trabajando En <a href="https://www.coderhouse.com/" target="blank">**CoderHouse**</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/felipe-juaneda-8b7103190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-juaneda-8b7103190/" height="30" width="40" /></a>
@@ -20,3 +20,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipejuaneda&show_icons=true&locale=en&layout=compact" alt="felipejuaneda" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipejuaneda&show_icons=true&locale=en" alt="felipejuaneda" /></p>
+<h2 align="center">Contactame!</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipe-juaneda-8b7103190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe agustin juaneda" height="30" width="40" /></a>
+  &nbsp;
+  <a href="felipejua9@gmail.com" target="blank"><img align="center" src="https://1000marcas.net/wp-content/uploads/2019/11/logo-Gmail-1.png" alt="felipe agustin juaneda" height="35" width="40" /></a>
+</p>
