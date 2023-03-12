@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Felipe Agustín Juaneda</h1>
 <h3 align="center">FrontEnd developer, y tutor de React Js en CoderHouse</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=felipejuaneda&label=Profile%20views&color=0e75b6&style=flat" alt="felipejuaneda" /> </p>
+<div align="center"><br><img src="https://komarev.com/ghpvc/?username=santipergo&label=Profile%20views&color=0e75b6&style=flat" style="width:25%;height:auto;" alt="santipergo" /> </div>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=felipejuaneda&label=Profile%20views&color=0e75b6&style=flat](https://camo.githubusercontent.com/397909990698251db34722365c0be93f777ef16686325c2114efe5364bab72c6/68747470733a2f2f632e74656e6f722e636f6d2f64375f353278685f32645141414141432f646f672d776f726b2e676966)" alt="felipejuaneda" /> </p>
 
 - 🔭 Trabajando En CoderHouse **CoderHouse**
 
