@@ -4,7 +4,7 @@
   <img src="https://c.tenor.com/d7_52xh_2dQAAAAC/dog-work.gif" style="width:100%;height:auto;" />
 </div>
 
-<div align="center"><br><img src="https://komarev.com/ghpvc/?username=felipejuaneda&label=Profile%20views&color=0e75b6&style=flat" alt="felipejuaneda" /> </div>
+<div align="center"><br><img src="https://komarev.com/ghpvc/?username=felipejuaneda&label=Profile%20views&color=0e75b6&style=flat" style="width:25%;height:auto;" alt="felipejuaneda" /> </div>
 
 - 🔭 Trabajando En CoderHouse **CoderHouse**
 
