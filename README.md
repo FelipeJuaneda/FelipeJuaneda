@@ -19,10 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipejuaneda&show_icons=true&locale=en&layout=compact" alt="felipejuaneda" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipejuaneda&show_icons=true&locale=en" alt="felipejuaneda" /></p>
-<h2 align="center">Contactame!</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/felipe-juaneda-8b7103190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe agustin juaneda" height="30" width="40" /></a>
-  &nbsp;
-  <a href="felipejua9@gmail.com" target="blank"><img align="center" style="object-fit:cover" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="felipe agustin juaneda" height="35" width="40" /></a>
-</p>
+
