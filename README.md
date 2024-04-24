@@ -11,7 +11,7 @@ FrontEnd developer, y tutor de React Js en CoderHouse
   <img src="https://komarev.com/ghpvc/?username=felipejuaneda&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
-- 🔭 Trabajando En [CoderHouse](https://www.coderhouse.com/)
+- 🔭 Trabajando En [CoderHouse](https://www.coderhouse.com/) y en [Outside The Box](https://www.outsidethebox.ar/)
 
 ## Contactame:
 
