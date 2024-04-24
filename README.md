@@ -10,7 +10,7 @@ Full Stack developer, especializado en Front-End, y tutor de React Js y JavaScri
 
 ## Contactame:
 
-[LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/felipe-juaneda-8b7103190/) | [Instagram](https://instagram.com/felipejuaneda) | [Discord](https://discord.gg/[Tutor]felipejua#4786)
+[LinkedIn](https://www.linkedin.com/in/felipe-juaneda-8b7103190/) | [Instagram](https://instagram.com/felipejuaneda) | [Discord](https://discord.gg/[Tutor]felipejua#4786)
 
 
 
